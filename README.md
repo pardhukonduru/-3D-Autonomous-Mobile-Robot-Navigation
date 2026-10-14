@@ -126,5 +126,4 @@ Test planning and control methods across more map layouts and obstacle patterns.
 Add exportable benchmark reports and plots.
 Extend the robot models and controller tuning options.
 Evaluate performance on physical robot hardware.
-License
-No license file was included with the supplied project archive. Add a `LICENSE` file before publishing if you want to specify how others may use, modify, and distribute this project.
+
